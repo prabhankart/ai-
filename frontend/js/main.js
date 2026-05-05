@@ -1,4 +1,4 @@
-const API_BASE = 'http://127.0.0.1:5000/api/analyze';
+const API_BASE = 'https://ai-par.onrender.com';
 
 // ---------- TAB SWITCH ----------
 // Use mousedown instead of click so file-picker events don't interfere
